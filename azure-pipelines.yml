@@ -4,7 +4,7 @@ name: PowerAppsTestAutomation-$(date:yyyyMMdd)$(rev:.r)
 
 resources:
   repositories:
-    - repository: ryanpowerplatform/PowerAppsTestAutomation
+    - repository: PowerAppsTestAutomation
       type: github
       # GitHub Repo(e.g. ryanpowerplatform/PowerAppsTestAutomation)
       # Recommended to Fork or Duplicate if custom auth flows are required
