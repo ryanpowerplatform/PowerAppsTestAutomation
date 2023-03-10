@@ -8,7 +8,7 @@ resources:
       type: github
       # GitHub Repo(e.g. ryanpowerplatform/PowerAppsTestAutomation)
       # Recommended to Fork or Duplicate if custom auth flows are required
-      name: ryanpowerplatform/PowerAppsTestAutomation
+      name: ryanpowerplatform/PowerAppsTestAutomation/azure-pipelines.yml
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
       endpoint: github.com_ryanpowerplatform
